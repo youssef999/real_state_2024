@@ -1,0 +1,7 @@
+{
+    "workbench.colorCustomizations": {
+        "terminal.ansiBrightRed": "#ff0000",  // Change the color of error paths (replace #ff0000 with your desired color)
+        "terminal.ansiBrightBlue": "#0000ff"  // Change the color of link paths (replace #0000ff with your desired color)
+    }
+    
+}

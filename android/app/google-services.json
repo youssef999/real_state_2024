@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "466867203642",
+    "project_id": "realstate-e5bbc",
+    "storage_bucket": "realstate-e5bbc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:466867203642:android:bbc6597ee65c7de1e40f03",
+        "android_client_info": {
+          "package_name": "com.brokers.realstate"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSKdlUrrAB7a7W7M2h30y-q04-_MIwQzo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
